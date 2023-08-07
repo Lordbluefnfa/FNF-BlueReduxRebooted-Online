@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"SickNote",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "normal, easy",
+	"weekCharacters": [
+		"Pico",
+		"bf",
+		"gf"
+	],
+	"storyName": "Killo hitman",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
